@@ -1,10 +1,10 @@
 ##################################
-# AdinPlay.com ads.txt - 2024-04-17
+# AdinPlay.com ads.txt - 2024-06-20
 ##################################
 
-OWNERDOMAIN=snow-rider-3d.github.io
+OWNERDOMAIN=googlesnakeonline.github.io
 MANAGERDOMAIN=adinplay.com
-adinplay.com, SRD, DIRECT
+adinplay.com, GSO, DIRECT
 
 #Google
 google.com, pub-3282547114800347, RESELLER, f08c47fec0942fa0
@@ -794,5 +794,5 @@ vidazoo.com, 655c85dc63ceeb606a0f365f, DIRECT, b6ada874b4d7d0b2
 smartadserver.com, 3490, DIRECT
 
 ##################################
-# AdinPlay.com ads.txt - 2024-04-17
+# AdinPlay.com ads.txt - 2024-06-20
 ##################################
